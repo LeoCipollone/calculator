@@ -10,18 +10,18 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #333;
+    background: #131313;
 }
 
 body.light {
-    background: #f8f8f8;
+    background: #e6e6e6;
 }
 
 .container {
     position: relative;
     min-width: 300px;
     min-height: 300px;
-    background-color: #333;
+    background: #333;
     padding: 40px 30px 30px;
     border-radius: 20px;
     box-shadow: 25px 25px 75px rgba(0, 0, 0, 0.25),
